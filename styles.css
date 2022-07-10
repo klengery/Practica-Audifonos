@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+background-color: rgb(39, 37, 37);
+height: 600px;
+width: 100%;
+}
+
+span{
+    font-size: 2.5rem;
+}
+
+.h{
+    margin-top: 2rem;
+}
+
+.audifonos{
+    width: 40%;
+    display: inline-block;
+    height: 350px;
+    margin-top: 9rem;
+    margin-left: 8.1rem;
+}
+
+.section-1{
+    font-size: 1.8rem;
+}
+
+h1{
+    font-size: 4rem;
+    background: linear-gradient(to right, #0052bd, #45e095,rgb(118, 223, 153));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent; 
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.textos-header{
+    width: 50%;
+    display: inline;
+    height: 600px;
+    float: right;
+    color: #fff;
+    margin-top: 10rem;
+}
+/* Hasta aqui es el header*/
+
+.descripcones strong{
+    text-align: center;
+}
+
+.icono-descripcion{
+    font-size: 1rem;
+}
+
+.section-2{
+    color: #0052bd;
+    font-size: 1.3rem;
+}
+
+.lorem{
+    padding: 2rem;
+}
+
+.contenedor-descripcion{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;    
+    max-width: 120rem;
+    margin: 10rem;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.text-a{
+    color: #fff;
+   padding: 10rem;
+   font-size: 1.2rem;
+}
+
+h2{
+    font-size: 2.8rem;
+    background: linear-gradient(to right, #0052bd, rgb(156, 248, 187));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-align: center;
+}
+
+
+
+
+
+.modelo{
+    padding: var(--separacion) 0;
+    color: #1073ba;
+}
+
+.auduif h3{
+    font-size: 2.3rem;
+}
+
+.modelo .precio{
+    font-size: 4rem;
+}
+
+.audifono-xy{
+    background-color: rgb(219, 219, 219);
+    margin-bottom: 2rem;
+}
+
+.audifono-z{
+    background-color: #1073ba;
+    color: #fff;
+}
